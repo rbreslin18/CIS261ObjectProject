@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ \r\n\ Circle\ subclass\r\n\ Rodney\ Breslin\ \r\n\ CIS\ 261\r\n\ CIRCLE\ CLASS\ UML\r\n\ -----------------\r\n\ -radius\:\ double\r\n\ -diameter\:\ double\r\n\ -tubeLength\:double\r\n\ -bracket\:int\r\n\ ---------------------\r\n\ +Circle()\r\n\ +Circle(diameter\:double)\r\n\ +getRadius()\:double\r\n\ +setRadius(radius\:double)\r\n\ +getArea()\:double\r\n\ +getDiameter()\:double\r\n\ +setDiameter(diameter\:double)\r\n\ +getTubeLength()\:double\r\n\ +printCircle()\:String\r\n\ +getNumBrackets()\:int\r\n\ \r\n\ -------------------------\r\n
+comment1.params=
+comment1.target=Circle()
+comment10.params=
+comment10.target=void\ printCircle()
+comment2.params=diameter
+comment2.target=Circle(double)
+comment3.params=
+comment3.target=double\ getRadius()
+comment4.params=radius
+comment4.target=void\ setRadius(double)
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=double\ getDiameter()
+comment7.params=diameter
+comment7.target=void\ setDiameter(double)
+comment8.params=
+comment8.target=double\ getTubeLength()
+comment9.params=
+comment9.target=int\ getNumBrackets()
+numComments=11

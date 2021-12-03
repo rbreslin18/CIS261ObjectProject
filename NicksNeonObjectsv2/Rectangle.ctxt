@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ \r\n\ Rectangle\ SubClass\r\n\ Rodney\ Breslin\r\n\ CIS\ 261\r\n\ RECTANGLE\ UML\ DIAGRAM\r\n\ ----------------------\r\n\ -width\:double\r\n\ -height\:double\r\n\ -tubeLength\:double\r\n\ -bracket\:int\r\n\ ----------------\r\n\ +Rectangle()\r\n\ +Rectangle(with\:double,\ height\:double)\r\n\ +Rectangle(width\:double,\ color\:string,\ filled\:boolean)\r\n\ +getWidth()\:double\r\n\ +setWidth(double\ width)\r\n\ +getHeight()\:double\r\n\ +setHeight(width\:double)\r\n\ +getArea()\:double\r\n\ +getTubeLength()\:double\r\n\ +getNumBrackets()\:int;\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment10.params=
+comment10.target=int\ getNumBrackets()
+comment2.params=width\ height
+comment2.target=Rectangle(double,\ double)
+comment3.params=width\ color\ filled
+comment3.target=Rectangle(double,\ java.lang.String,\ boolean)
+comment4.params=
+comment4.target=double\ getWidth()
+comment5.params=width
+comment5.target=void\ setWidth(double)
+comment6.params=
+comment6.target=double\ getHeight()
+comment7.params=height
+comment7.target=void\ setHeight(double)
+comment8.params=
+comment8.target=double\ getArea()
+comment9.params=
+comment9.target=double\ getTubeLength()
+numComments=11
